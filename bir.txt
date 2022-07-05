@@ -1,1 +1,2 @@
 master ikinci commit
+master üçüncü commmit
